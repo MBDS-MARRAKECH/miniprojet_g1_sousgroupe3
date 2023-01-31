@@ -9,15 +9,16 @@
    - Elmehdi Chemlal
    - Hamza Janate
    - ELHARIRI ILYAS
-    
+   - Professeur : Pr EDOUARD AMOSSE
+### Technologie utilisée : ANDROID (XML, JAVA, FIREBASE, NFC)
 # Description :
 L'objectif de l'application c est que les utilisateurs passe un quiz et a la fin de ce quiz il lui affiche son scors et au meme temps il le demande de posez sa carte nfc pour ecrire les informations du scors passé
 
 Autre fonctionalité :
-- Afficher le scors 
+- Afficher le score 
 - Afficher une map qui determine la position
-- Afficher les scors de touts les utilisateurs
-- List des utilisateur
+- Afficher les scores de touts les utilisateurs
+- Liste des utilisateurs
 - Lire tag nfc
 - Ecrire dans le tag nfc
   
