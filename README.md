@@ -1,28 +1,30 @@
-### miniprojet_g1_sousgroupe3
+###  MINI_PROJET_NFC_MBDSCASAG1_SOUSGROUPE3
 
-# Ce Mini projete et réalisée par : 
-  - Sara Ait elmahjoub  
-  - Omayma Ezzibari  
-  - Amine Aboutaj  
-  - Oulouda Youssef
-  - Achraf Lozad
-  - Elmehdi Chemlal
-  - Hamza Janate
+# Ce Mini projet et réalisée par : 
+   - Sara Ait elmahjoub  
+   - Omayma Ezzibari  
+   - Amine Aboutaj  
+   - Oulouda Youssef
+   - Achraf Lozad
+   - Elmehdi Chemlal
+   - Hamza Janate
+   - ELHARIRI ILYAS
     
 # Description :
 L'objectif de l'application c est que les utilisateurs passe un quiz et a la fin de ce quiz il lui affiche son scors et au meme temps il le demande de posez sa carte nfc pour ecrire les informations du scors passé
+
 Autre fonctionalité :
-- afficher le scors 
-- afficher une map qui determine la position
-- afficher les scors de touts les utilisateurs
-- list des utilisateur
-- lire tag nfc
-- ecrire dans le tag nfc
+- Afficher le scors 
+- Afficher une map qui determine la position
+- Afficher les scors de touts les utilisateurs
+- List des utilisateur
+- Lire tag nfc
+- Ecrire dans le tag nfc
   
+ 
+# Screen de démonstration de l'application mobile
   
-  # Screen de démonstration de l'application mobile
-  
- ![conct](https://user-images.githubusercontent.com/101406507/215862948-d43a7ced-1288-477f-afea-96f47e38e0df.jpeg)
+![conct](https://user-images.githubusercontent.com/101406507/215862948-d43a7ced-1288-477f-afea-96f47e38e0df.jpeg)
  
 ![menu](https://user-images.githubusercontent.com/101406507/215862966-33b202b4-ce49-4124-9f35-394df28ef406.jpeg)
 
