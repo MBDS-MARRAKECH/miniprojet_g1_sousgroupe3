@@ -1,13 +1,14 @@
 # miniprojet_g1_sousgroupe3
 
-#Equipe 
-  Sara Ait elmahjoub
-  Omayma Ezzibari
-  Amine Aboutaj
-  Oulouda Youssef
-  Achraf Lozad
-  Elmehdi Chemlal
-  Hamza Janate
+# Ce Mini Projet est réalisée Par : 
+  - SARA AIT ELMAHJOUB
+  - OUMAYMA EZZIBARI
+  - ABOUTAJ AMINE
+  - OULOUDA YOUSSEF
+  - ACHRAF LOZAD
+  - ELMEHDI CHEMLAL
+  - HAMZA JANATE
+  - ELHARIRI ILYAS
     
 # Description :
 L'objectif de l'application c est que les utilisateurs passe un quiz et a la fin de ce quiz il lui affiche son scors et au meme temps il le demande de posez sa carte nfc pour ecrire les informations du scors passé
@@ -16,8 +17,8 @@ Autre fonctionalité :
 	- afficher une map qui determine la position
 	- afficher les scors de touts les utilisateurs
 	- list des utilisateur
-  -lire tag nfc
-  -ecrire dans le tag nfc
+  -Lire tag nfc
+  -Ecrire dans le tag nfc
   
   
   # Screen de démonstration de l'application mobile
